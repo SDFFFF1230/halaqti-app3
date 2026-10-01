@@ -1,0 +1,9 @@
+{
+  "appId": "com.halaqati.app",
+  "appName": "حلقتي",
+  "webDir": "www",
+  "backgroundColor": "#f9fafb",
+  "android": {
+    "allowMixedContent": false
+  }
+}
